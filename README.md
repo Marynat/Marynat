@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marynat
-- 👀 I’m interested in C# .Net and web technologies
-- 🌱 I’m currently learning ... lets say React?
+- 👀 I’m interested in C#, .Net, React and web technologies
+- 🌱 
 
 
 <!---
